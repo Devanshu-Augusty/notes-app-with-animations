@@ -1,8 +1,16 @@
-# React + Vite
+# Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Notes App that includes cool animations built using ReactJS, Tailwind CSS and framer-motion.
+Responsive design for various screen sizes.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can check out a live demo of the Notes App [here](https://notes-app-devanshu-augusty.netlify.app/).
+
+## Technologies Used
+
+Reactjs, Tailwind CSS, framer-motion
+
+## Contact
+
+Feel free to reach out to me via email at devanshuaugusty17@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/devanshu-augusty-25204a1b8/) or [X (twitter)](https://twitter.com/DAugus7).
